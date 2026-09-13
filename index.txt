@@ -1,0 +1,11 @@
+
+git add .
+git commit -m "message"
+git push
+
+
+rgb(249, 242, 217)
+rgb(198, 211, 183)
+rgb(141, 191, 169)
+rgb(103, 175, 172)
+rgb(74, 123, 89)
